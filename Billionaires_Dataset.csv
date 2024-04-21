@@ -1,0 +1,611 @@
+﻿rank,finalWorth,category,personName,age,country,city,source,gender,title,population_country
+1,211000,Fashion & Retail,Bernard Arnault & family,74,France,Paris,LVMH,M,Chairman and CEO,67059887
+2,180000,Automotive,Elon Musk,51,United States,Austin,"Tesla, SpaceX",M,CEO,328239523
+3,114000,Technology,Jeff Bezos,59,United States,Medina,Amazon,M,Chairman and Founder,328239523
+4,107000,Technology,Larry Ellison,78,United States,Lanai,Oracle,M,CTO and Founder,328239523
+5,106000,Finance & Investments,Warren Buffett,92,United States,Omaha,Berkshire Hathaway,M,CEO,328239523
+6,104000,Technology,Bill Gates,67,United States,Medina,Microsoft,M,Cochair,328239523
+7,94500,Media & Entertainment,Michael Bloomberg,81,United States,New York,Bloomberg LP,M,CEO,328239523
+8,93000,Telecom,Carlos Slim Helu & family,83,Mexico,Mexico City,Telecom,M,Honorary Chairman,126014024
+9,83400,Diversified,Mukesh Ambani,65,India,Mumbai,Diversified,M,Founder and Chairman,1366417754
+10,80700,Technology,Steve Ballmer,67,United States,Hunts Point,Microsoft,M,Owner,328239523
+11,80500,Fashion & Retail,Francoise Bettencourt Meyers & family,69,France,Paris,L'Oréal,F,,67059887
+12,79200,Technology,Larry Page,50,United States,Palo Alto,Google,M,Cofounder and board member,328239523
+13,77300,Fashion & Retail,Amancio Ortega,87,Spain,La Coruna,Zara,M,,47076781
+14,76000,Technology,Sergey Brin,49,United States,Los Altos,Google,M,Cofounder and board member,328239523
+15,68000,Food & Beverage,Zhong Shanshan,68,China,Hangzhou,"Beverages, pharmaceuticals",M,,1397715000
+16,64400,Technology,Mark Zuckerberg,38,United States,Palo Alto,Facebook,M,Cofounder,328239523
+17,59000,Diversified,Julia Koch & family,60,United States,New York,Koch Industries,F,,328239523
+17,59000,Diversified,Charles Koch & family,87,United States,Wichita,Koch Industries,M,Chairman and CEO,328239523
+19,58800,Fashion & Retail,Jim Walton,74,United States,Bentonville,Walmart,M,Chairman and CEO,328239523
+20,57600,Fashion & Retail,Rob Walton & family,78,United States,Bentonville,Walmart,M,Director,328239523
+21,56700,Fashion & Retail,Alice Walton,73,United States,Fort Worth,Walmart,F,Philanthropist,328239523
+22,54400,Media & Entertainment,David Thomson & family,65,Canada,Toronto,Media,M,Chairman,36991981
+23,50100,Technology,Michael Dell,58,United States,Austin,Dell Technologies,M,Chairman and CEO,328239523
+24,47200,Diversified,Gautam Adani,60,India,Ahmedabad,"Infrastructure, commodities",M,,1366417754
+25,45100,Fashion & Retail,Phil Knight & family,85,United States,Hillsboro,Nike,M,Chairman,328239523
+26,45000,Technology,Zhang Yiming,39,China,Beijing,TikTok,M,Founder,1397715000
+27,42900,Fashion & Retail,Dieter Schwarz,83,Germany,Neckarsulm,Retail,M,,83132799
+28,40100,Fashion & Retail,François Pinault & family,86,France,Paris,Luxury goods,M,,67059887
+29,39100,Logistics,Klaus-Michael Kuehne,85,Switzerland,Schindellegi,Shipping,M,,8574832
+30,38900,Food & Beverage,Giovanni Ferrero,58,Belgium,Brussels,"Nutella, chocolates",M,,11484055
+31,38300,Food & Beverage,Jacqueline Mars,83,United States,The Plains,"Candy, pet food",F,,328239523
+31,38300,Food & Beverage,John Mars,87,United States,Jackson,"Candy, pet food",M,,328239523
+33,38000,Diversified,Li Ka-shing,94,Hong Kong,,Diversified,M,Senior Advisor,
+34,35300,Technology,Ma Huateng,51,China,Shenzhen,Internet media,M,Chairman and CEO,1397715000
+35,35000,Finance & Investments,Ken Griffin,54,United States,Miami,Hedge funds,M,Founder & CEO,328239523
+35,35000,Gambling & Casinos,Miriam Adelson & family,77,United States,Las Vegas,Casinos,F,,328239523
+37,34700,Food & Beverage,Mark Mateschitz,30,Austria,Salzburg,Red Bull,M,,8877067
+38,33400,Automotive,Robin Zeng,54,China,Ningde,Batteries,M,,1397715000
+39,32600,Fashion & Retail,Tadashi Yanai & family,74,Japan,Tokyo,Fashion retail,M,,126226568
+40,32100,Diversified,Len Blavatnik,65,United Kingdom,London,"Music, chemicals",M,,66834405
+41,31600,Fashion & Retail,Gerard Wertheimer,72,United States,New York,Chanel,M,,328239523
+41,31600,Fashion & Retail,Alain Wertheimer,74,United States,New York,Chanel,M,,328239523
+43,31200,Logistics,Rafaela Aponte-Diamant,78,Switzerland,Geneva,Shipping,F,,8574832
+43,31200,Logistics,Gianluigi Aponte,82,Switzerland,Geneva,Shipping,M,,8574832
+45,30200,Technology,Colin Zheng Huang,43,China,Shanghai,E-commerce,M,,1397715000
+46,29700,Manufacturing,Reinhold Wuerth & family,87,Germany,Kuenzelsau,Fasteners,M,,83132799
+47,29500,Real Estate,Lee Shau Kee,95,Hong Kong,Hong Kong,Real estate,M,,
+48,28500,Finance & Investments,Jeff Yass,64,United States,Haverford,"Trading, investments",M,,328239523
+49,28100,Finance & Investments,Jim Simons,84,United States,East Setauket,Hedge funds,M,Founder,328239523
+50,27800,Finance & Investments,Stephen Schwarzman,76,United States,New York,Investments,M,Chairman and CEO,328239523
+51,27400,Automotive,Susanne Klatten,60,Germany,Bad Homburg,"BMW, pharmaceuticals",F,,83132799
+52,27000,Metals & Mining,Gina Rinehart,69,Australia,Perth,Mining,F,Executive Chairman,25766605
+53,26700,Technology,William Ding,51,China,Hangzhou,Online games,M,,1397715000
+54,26600,Metals & Mining,Germán Larrea Mota Velasco & family,69,Mexico,Mexico City,Mining,M,,126014024
+55,25600,Technology,Shiv Nadar,77,India,Delhi,software services,M,,1366417754
+56,25500,Energy,Low Tuck Kwong,74,Indonesia,Jakarta,Coal,M,,270203917
+57,25300,Finance & Investments,Thomas Peterffy,78,United States,Palm Beach,Discount brokerage,M,,328239523
+58,25200,Metals & Mining,Andrey Melnichenko & family,51,United Arab Emirates,Ras Al Khaimah,"Fertilizers, coal",M,,9770529
+59,24600,Automotive,Stefan Quandt,56,Germany,Frankfurt,BMW,M,,83132799
+60,24400,Technology,MacKenzie Scott,52,United States,Seattle,Amazon,F,Philanthropist,328239523
+61,24200,Finance & Investments,R. Budi Hartono,82,Indonesia,Kudus,"Banking, tobacco",M,,270203917
+62,23700,Metals & Mining,Vladimir Potanin,62,Russia,Moscow,Metals,M,,144373535
+63,23500,Technology,Jack Ma,58,China,Hangzhou,E-commerce,M,,1397715000
+64,23400,Manufacturing,He Xiangjian & family,80,China,Foshan,Home appliances,M,,1397715000
+65,23100,Metals & Mining,Iris Fontbona & family,80,Chile,Santiago,Mining,F,,18952038
+65,23100,Manufacturing,Michael Hartono,83,Indonesia,Kudus,"Banking, tobacco",M,,270203917
+67,22900,Manufacturing,James Ratcliffe,70,United Kingdom,London,Chemicals,M,,66834405
+68,22600,Healthcare,Cyrus Poonawalla,81,India,Pune,Vaccines,M,,1366417754
+69,22400,Telecom,Masayoshi Son,65,Japan,Tokyo,"Internet, telecom",M,CEO,126226568
+70,22100,Metals & Mining,Vladimir Lisin,66,Russia,Moscow,"Steel, transport",M,,144373535
+71,22000,Food & Beverage,Emmanuel Besnier,52,France,Laval,Cheese,M,,67059887
+72,21600,Finance & Investments,Abigail Johnson,61,United States,Milton,Fidelity,F,CEO,328239523
+72,21600,Energy,Leonid Mikhelson & family,67,Russia,Moscow,"Gas, chemicals",M,,144373535
+74,21200,Fashion & Retail,Lukas Walton,36,United States,Chicago,Walmart,M,,328239523
+74,21200,Service,Wang Wei,52,China,Shenzhen,Package delivery,M,,1397715000
+76,21100,Technology,Jensen Huang,60,United States,Los Altos,Semiconductors,M,CEO & President,328239523
+77,21000,Manufacturing,Takemitsu Takizaki,77,Japan,Osaka,Sensors,M,,126226568
+77,21000,Fashion & Retail,Leonard Lauder,90,United States,New York,Estee Lauder,M,Chairman Emeritus,328239523
+79,20900,Metals & Mining,Alexey Mordashov & family,57,Russia,Moscow,"Steel, investments",M,,144373535
+80,20500,Energy,Vagit Alekperov,72,Russia,Moscow,Oil,M,,144373535
+81,20200,Healthcare,"Thomas Frist, Jr. & family",84,United States,Nashville,Hospitals,M,,328239523
+82,19600,Metals & Mining,Andrew Forrest,61,Australia,Perth,Mining,M,,25766605
+83,19100,Finance & Investments,Ray Dalio,73,United States,Greenwich,Hedge funds,M,Founder & Co-Chief Investment Officer,328239523
+84,19000,Metals & Mining,Wang Wenyin,55,China,Shenzhen,"Mining, copper products",M,,1397715000
+84,19000,Automotive,Eric Li,59,China,Hangzhou,Automobiles,M,,1397715000
+86,18900,Food & Beverage,Qin Yinglin,57,China,Nanyang,Pig breeding,M,,1397715000
+86,18900,Diversified,Eyal Ofer,72,Monaco,Monte Carlo,"Real estate, shipping",M,,38964
+88,18700,Automotive,Wang Chuanfu,57,China,Shenzhen,"Batteries, automobiles",M,,1397715000
+89,18500,Finance & Investments,David Tepper,65,United States,Palm Beach,Hedge funds,M,President and Founder,328239523
+89,18500,Energy,Gennady Timchenko,70,Russia,Moscow,"Oil, gas",M,,144373535
+89,18500,Energy,Harold Hamm & family,77,United States,Oklahoma City,Oil & gas,M,Chairman and CEO,328239523
+92,18000,Finance & Investments,Daniel Gilbert,61,United States,Franklin,Quicken Loans,M,,328239523
+93,17700,Metals & Mining,Lakshmi Mittal,72,United Kingdom,London,Steel,M,Chairman and CEO,66834405
+94,17500,Finance & Investments,Steve Cohen,66,United States,Greenwich,Hedge funds,M,Founder,328239523
+94,17500,Metals & Mining,Savitri Jindal & family,73,India,Hisar,Steel,F,,1366417754
+94,17500,Finance & Investments,Carl Icahn,87,United States,Indian Creek,Investments,M,Founder,328239523
+97,17400,Fashion & Retail,"John Menard, Jr.",83,United States,Eau Claire,Home improvement stores,M,Founder,328239523
+97,17400,Real Estate,Donald Bren,90,United States,Newport Beach,Real estate,M,Chairman,328239523
+99,17100,Media & Entertainment,Rupert Murdoch & family,92,United States,New York,"Newspapers, TV network",M,Chairman and CEO,328239523
+100,16700,Finance & Investments,Vicky Safra & family,70,Switzerland,Crans-Montana,Banking,F,,8574832
+101,16500,Finance & Investments,Renata Kellnerova & family,55,Czech Republic,Prague,"Finance, telecommunications",F,,10669709
+101,16500,Fashion & Retail,"Theo Albrecht, Jr. & family",72,Germany,Mulheim an der Ruhr,"Aldi, Trader Joe's",M,,83132799
+103,16300,Healthcare,Li Xiting,72,China,Shenzhen,medical devices,M,,1397715000
+104,16200,Technology,Eric Schmidt,67,United States,Atherton,Google,M,,328239523
+104,16200,Fashion & Retail,Stefan Persson,75,Sweden,Stockholm,H&M,M,Chairman,10285453
+106,16000,Finance & Investments,Michael Platt,55,Switzerland,Geneva,Hedge funds,M,Founder ,8574832
+107,15900,Food & Beverage,Pang Kang,67,China,Foshan,Soy sauce,M,,1397715000
+108,15800,Real Estate,Peter Woo,76,Hong Kong,Hong Kong,Real estate,M,,
+108,15800,Food & Beverage,Jorge Paulo Lemann & family,83,Switzerland,Zurich,Beer,M,"Investor, Philanthropist",8574832
+108,15800,Fashion & Retail,Karl Albrecht Jr. & family,,Germany,,Supermarkets,M,,83132799
+108,15800,Fashion & Retail,Beate Heister,,,,Supermarkets,F,,
+112,15600,Healthcare,Dilip Shanghvi,67,India,Mumbai,Pharmaceuticals,M,,1366417754
+113,15500,Technology,Robert Pera,45,United States,San Jose,Wireless networking,M,Chief Executive Officer,328239523
+114,15300,Fashion & Retail,Radhakishan Damani,68,India,Mumbai,"Retail, investments",M,,1366417754
+115,15200,Automotive,Huang Shilin,56,China,Ningde,Batteries,M,,1397715000
+116,14900,Fashion & Retail,David Green & family,81,United States,Oklahoma City,Retail,M,CEO,328239523
+116,14900,Diversified,Dhanin Chearavanont,83,Thailand,Bangkok,Diversified,M,,69625582
+118,14800,Food & Beverage,Charoen Sirivadhanabhakdi,78,Thailand,Bangkok,"Alcohol, real estate",M,,69625582
+119,14700,Food & Beverage,Charlene de Carvalho-Heineken & family,68,United Kingdom,London,Heineken,F,,66834405
+120,14600,Healthcare,Xu Hang,60,China,Shenzhen,Medical devices,M,,1397715000
+121,14500,Automotive,Wei Jianjun & family,59,China,Baoding,Automobiles,M,,1397715000
+122,14400,Metals & Mining,Alisher Usmanov,69,Uzbekistan,Tashkent,"Steel, telecom, investments",M,Founder,33580650
+123,14300,Manufacturing,Goh Cheng Liang,95,Singapore,Singapore,Paints,M,,5703569
+124,14200,Diversified,Kumar Birla,55,India,Mumbai,Commodities,M,,1366417754
+124,14200,Manufacturing,Aliko Dangote,65,Nigeria,Lagos,"Cement, sugar",M,CEO,200963599
+126,14100,Real Estate,Kwong Siu-hing,93,Hong Kong,Hong Kong,Real estate,F,,
+127,14000,Diversified,Idan Ofer,67,United Kingdom,London,Shipping,M,,66834405
+128,13900,Healthcare,Chen Bang,57,China,Changsha,Hospitals,M,,1397715000
+128,13900,Gambling & Casinos,Lui Che Woo,94,Hong Kong,Hong Kong,Casinos/hotels,M,,
+130,13700,Technology,Jan Koum,47,United States,Atherton,WhatsApp,M,"CEO, cofounder",328239523
+130,13700,Construction & Engineering,Diane Hendricks,76,United States,Afton,Building supplies,F,Cofounder,328239523
+130,13700,Logistics,John Fredriksen,78,United Kingdom,London,Shipping,M,Investor,66834405
+133,13300,Real Estate,Joseph Lau,71,Hong Kong,Hong Kong,Real estate,M,,
+133,13300,Sports,Jerry Jones,80,United States,Dallas,Dallas Cowboys,M,President and General Manager,328239523
+133,13300,Energy,George Kaiser,80,United States,Tulsa,"Oil & gas, banking",M,Chairman,328239523
+136,13200,Automotive,Lu Xiangyang,60,China,Guangzhou,"Automobiles, batteries",M,,1397715000
+137,13100,Real Estate,Harry Triguboff,90,Australia,Sydney,Real estate,M,,25766605
+138,12900,Finance & Investments,Uday Kotak,64,India,Mumbai,Banking,M,,1366417754
+138,12900,Sports,Stanley Kroenke,75,United States,Electra,"Sports, real estate",M,,328239523
+140,12600,Energy,Mikhail Fridman,58,United Kingdom,London,"Oil, banking, telecom",M,,66834405
+141,12300,Energy,Sarath Ratanavadi,57,Thailand,Bangkok,Energy,M,,69625582
+142,12200,Metals & Mining,Dang Yanbao,50,China,Yinchuan,Coal,M,,1397715000
+142,12200,Healthcare,Jiang Rensheng & family,69,China,Chongqing,Vaccines,M,,1397715000
+144,12100,Automotive,Shahid Khan,72,United States,Naples,Auto parts,M,,328239523
+145,12000,Technology,Laurene Powell Jobs & family,59,United States,Palo Alto,"Apple, Disney",F,"Investor, Philanthropist",328239523
+146,11800,Diversified,Robert Kuok,99,Hong Kong,Hong Kong,"Palm oil, shipping, property",M,,
+147,11600,Real Estate,Stephen Ross,82,United States,New York,Real estate,M,,328239523
+148,11500,Technology,Pavel Durov,38,United Arab Emirates,Dubai,Messaging app,M,,9770529
+148,11500,Healthcare,Andreas Struengmann & family,73,Germany,Tegernsee,Pharmaceuticals,M,,83132799
+148,11500,Healthcare,Thomas Struengmann & family,73,Germany,Tegernsee,Pharmaceuticals,M,,83132799
+151,11400,Fashion & Retail,Michael Rubin,50,United States,Bryn Mawr,Online retail,M,CEO,328239523
+151,11400,Food & Beverage,Liu Hanyuan,59,China,Chengdu,Agribusiness,M,,1397715000
+153,11300,Finance & Investments,Mikhail Prokhorov,57,Switzerland,Frauenfeld,Investments,M,,8574832
+153,11300,Manufacturing,Anthony Pratt,62,Australia,Melbourne,Manufacturing,M,,25766605
+153,11300,Manufacturing,Viatcheslav Kantor,69,Israel,Herzliya,"Fertilizer, real estate",M,,9053300
+153,11300,Finance & Investments,Israel Englander,74,United States,New York,Hedge funds,M,Founder,328239523
+157,11100,Fashion & Retail,Johann Rupert & family,72,South Africa,Cape Town,Luxury goods,M,,58558270
+157,11100,Fashion & Retail,Giorgio Armani,88,Italy,Milan,Luxury goods,M,,60297396
+159,11000,Technology,Zhang Zhidong,51,China,Shenzhen,Internet media,M,,1397715000
+159,11000,Finance & Investments,Gong Hongjia & family,58,Hong Kong,Hong Kong,Video surveillance,M,,
+161,10900,Fashion & Retail,Ricardo Salinas Pliego & family,67,Mexico,Mexico City,"Retail, media",M,,126014024
+161,10900,Finance & Investments,Philip Anschutz,83,United States,Denver,"Energy, sports, entertainment",M,,328239523
+161,10900,Fashion & Retail,Judy Love & family,85,United States,Oklahoma City,Gas stations,F,Chairman and CEO,328239523
+164,10700,Media & Entertainment,Donald Newhouse,93,United States,New York,Media,M,,328239523
+165,10600,Food & Beverage,Marcel Herrmann Telles,73,Brazil,Sao Paulo,Beer,M,,212559417
+165,10600,Sports,Robert Kraft,81,United States,Brookline,"Manufacturing, New England Patriots",M,Chairman & CEO,328239523
+167,10500,Fashion & Retail,Sky Xu,39,China,Guangzhou,E-commerce,M,,1397715000
+167,10500,Finance & Investments,Changpeng Zhao,45,United Arab Emirates,Dubai,Cryptocurrency exchange,M,,9770529
+167,10500,Finance & Investments,Suleiman Kerimov & family,57,Russia,Moscow,Gold,M,,144373535
+170,10300,Finance & Investments,Andrew Beal,70,United States,Dallas,"Banks, real estate",M,,328239523
+171,10200,Technology,Eduardo Saverin,41,Singapore,Singapore,Facebook,M,Investor,5703569
+171,10200,Technology,Mike Cannon-Brookes,43,Australia,Sydney,Software,M,,25766605
+171,10200,Automotive,Georg Schaeffler,58,Germany,Herzogenaurach,Auto parts,M,,83132799
+171,10200,Healthcare,Carl Cook,60,United States,Bloomington,Medical devices,M,,328239523
+171,10200,Energy,Jeffery Hildebrand,64,United States,Houston,Oil,M,,328239523
+171,10200,Manufacturing,Viktor Rashnikov,74,Russia,Magnitogorsk,Steel,M,,144373535
+171,10200,Fashion & Retail,Christy Walton,74,United States,Jackson,Walmart,F,,328239523
+171,10200,Technology,David Duffield,82,United States,Incline Village,Business software,M,Chairman and Cofounder,328239523
+179,10100,Technology,Scott Farquhar,43,Australia,Sydney,Software,M,,25766605
+179,10100,Real Estate,Wu Yajun,59,China,Beijing,Real estate,F,,1397715000
+179,10100,Diversified,Quek Leng Chan,81,Malaysia,Kuala Lumpur,"Banking, property",M,,32447385
+182,10000,Energy,Autry Stephens,85,United States,Midland,Oil,M,,328239523
+183,9900,Service,Liu Yongxing,74,China,Shanghai,Diversified,M,Chairman,1397715000
+184,9800,Logistics,"Jacques Saadé, Jr.",51,France,Marseille,Shipping,M,,67059887
+184,9800,Logistics,Rodolphe Saadé,53,France,Marseille,Shipping,M,Chairman and CEO,67059887
+184,9800,Logistics,Tanya Saadé Zeenny,55,France,Marseille,Shipping,F,,67059887
+184,9800,Diversified,Vinod Adani,74,United Arab Emirates,Dubai,"Infrastructure, commodities",M,,9770529
+184,9800,Finance & Investments,Melker Schorling & family,75,Sweden,Stockholm,Investments,M,,10285453
+184,9800,Fashion & Retail,Nicolas Puech,80,Switzerland,Martigny,Hermes,M,,8574832
+190,9700,Technology,Lei Jun,53,China,Beijing,Smartphones,M,Founder and CEO,1397715000
+190,9700,Finance & Investments,Michael Kim,59,South Korea,Seoul,Private equity,M,,51709098
+190,9700,Manufacturing,Andrei Guriev & family,63,Russia,Moscow,Fertilizers,M,,144373535
+190,9700,Healthcare,Sun Piaoyang,64,China,Lianyungang,Pharmaceuticals,M,,1397715000
+190,9700,Manufacturing,Friedhelm Loh,76,Germany,Haiger,Manufacturing,M,,83132799
+195,9600,Food & Beverage,Marijke Mars,58,United States,Los Angeles,"Candy, pet food",F,,328239523
+195,9600,Food & Beverage,Pamela Mars,62,United States,Alexandria,"Candy, pet food",F,,328239523
+195,9600,Food & Beverage,Valerie Mars,64,United States,New York,"Candy, pet food",F,,328239523
+195,9600,Food & Beverage,Victoria Mars,66,United States,Philadelphia,"Candy, pet food",F,,328239523
+195,9600,Manufacturing,Luo Liguo & family,67,China,Ningbo,Chemicals,M,,1397715000
+195,9600,Technology,Rick Cohen & family,70,United States,Keene,Warehouse automation,M,Entrepreneur,328239523
+195,9600,Energy,Jin Baofang,70,China,Xingtai,Solar panels,M,,1397715000
+202,9500,Finance & Investments,Vincent Bolloré & family,71,France,Paris,Investments,M,,67059887
+202,9500,Diversified,Jim Pattison,94,Canada,Vancouver,Diversified,M,"Founder, Chairman and CEO",36991981
+204,9400,Technology,Wang Xing,44,China,Beijing,Food delivery,M,,1397715000
+204,9400,Healthcare,Ernesto Bertarelli,57,Switzerland,Gstaad,"Biotech, investments",M,,8574832
+206,9300,Technology,Brian Chesky,41,United States,San Francisco,Airbnb,M,CEO and Cofounder,328239523
+206,9300,Manufacturing,James Dyson,75,United Kingdom,Gloucestershire,Vacuums,M,,66834405
+208,9200,Energy,Daniel Kretinsky,47,Czech Republic,Prague,"Energy, investments",M,,10669709
+208,9200,Diversified,Roman Abramovich & family,56,Russia,Moscow,"Steel, investments",M,,144373535
+208,9200,Fashion & Retail,Eric Smidt,63,United States,Beverly Hills,Hardware stores,M,,328239523
+208,9200,Technology,Azim Premji,77,India,Bangalore,Software services,M,Founder Chairman,1366417754
+208,9200,Diversified,Antonia Ax:son Johnson & family,79,Sweden,Stockholm,Diversified,F,,10285453
+208,9200,Media & Entertainment,John Malone,82,United States,Elizabeth,Cable television,M,,328239523
+208,9200,Finance & Investments,Charles Schwab,85,United States,Woodside,Discount brokerage,M,Investor,328239523
+215,9000,Real Estate,Alexander Otto,55,Germany,Hamburg,Real estate,M,,83132799
+215,9000,Manufacturing,Wang Liping & family,57,China,Changzhou,Hydraulic machinery,M,,1397715000
+215,9000,Metals & Mining,Ivan Glasenberg,66,Switzerland,Ruschlikon,Mining,M,,8574832
+215,9000,Technology,David Cheriton,72,United States,Palo Alto,Google,M,Professor,328239523
+215,9000,Food & Beverage,Anthony von Mandl,73,Canada,Vancouver,Alcoholic beverages,M,,36991981
+220,8900,Food & Beverage,Jorn Rausing,63,United Kingdom,Surrey,Packaging,M,,66834405
+220,8900,Food & Beverage,Finn Rausing,68,United Kingdom,London,Packaging,M,,66834405
+220,8900,Food & Beverage,Kirsten Rausing,70,United Kingdom,Newmarket,Packaging,F,,66834405
+223,8800,Technology,Dustin Moskovitz,38,United States,San Francisco,Facebook,M,Cofounder,328239523
+223,8800,Fashion & Retail,Tatyana Bakalchuk,47,Russia,Moscow region,Ecommerce,F,,144373535
+223,8800,Technology,Richard Liu,49,China,Beijing,E-commerce,M,,1397715000
+223,8800,Technology,Pierre Omidyar,55,United States,Honolulu,"EBay, PayPal",M,Founder,328239523
+223,8800,Energy,Pei Zhenhua,64,China,Ningde,Batteries,M,,1397715000
+223,8800,Technology,John Doerr,71,United States,Woodside,Venture capital,M,Investor,328239523
+223,8800,Energy,Carrie Perrodo & family,72,United Kingdom,London,Oil,F,Philanthropist,66834405
+230,8700,Manufacturing,Chen Jianhua,52,China,Wujiang,Chemicals,M,,1397715000
+230,8700,Fashion & Retail,Michael Otto,79,Germany,Hamburg,"Retail, real estate",M,,83132799
+232,8600,Finance & Investments,Graeme Hart,67,New Zealand,Auckland,Investments,M,,4841000
+232,8600,Technology,Andreas von Bechtolsheim & family,67,United States,Palo Alto,Google,M,"Cofounder, Chief Development Officer and Chairman",328239523
+232,8600,Food & Beverage,Ravi Jaipuria,68,India,Delhi,"Soft drinks, fast food",M,,1366417754
+232,8600,Finance & Investments,Leon Black,71,United States,New York,Private equity,M,,328239523
+232,8600,Real Estate,Manuel Villar,73,Philippines,Manila,Real estate,M,,108116615
+232,8600,Food & Beverage,Carlos Alberto Sicupira & family,75,Switzerland,St. Gallen,Beer,M,,8574832
+232,8600,Technology,Hasso Plattner & family,79,Germany,Heidelberg,Software,M,,83132799
+239,8500,Finance & Investments,"Chase Coleman, III.",47,United States,New York,Investments,M,Investor,328239523
+239,8500,Manufacturing,Li Zhenguo & family,55,China,Xi'an,Solar wafers and modules,M,,1397715000
+239,8500,Fashion & Retail,Ann Walton Kroenke,74,United States,Electra,Walmart,F,,328239523
+242,8400,Media & Entertainment,Blair Parry-Okeden,72,Australia,New South Wales,"Media, automotive",F,,25766605
+242,8400,Media & Entertainment,Jim Kennedy,75,United States,Atlanta,"Media, automotive",M,Chairman Emeritus,328239523
+242,8400,Metals & Mining,Nicky Oppenheimer & family,77,South Africa,Johannesburg,Diamonds,M,,58558270
+242,8400,Metals & Mining,Zheng Shuliang & family,77,China,Binzhou,Aluminum products,F,,1397715000
+246,8300,Fashion & Retail,John Morris,75,United States,Springfield,Sporting goods retail,M,,328239523
+246,8300,Fashion & Retail,Stefano Pessina,81,Monaco,Monte Carlo,Drugstores,M,,38964
+246,8300,Finance & Investments,Francine von Finck & family,,Switzerland,Thurgau,Investments,F,,8574832
+249,8200,Real Estate,Yang Huiyan & family,41,China,Foshan,Real estate,F,,1397715000
+249,8200,Energy,German Khan,61,Russia,Moscow,"Oil, banking, telecom",M,,144373535
+249,8200,Diversified,Abdulsamad Rabiu,62,Nigeria,Lagos,"Cement, sugar",M,,200963599
+249,8200,Real Estate,Wang Jianlin,68,China,Beijing,Real estate,M,Chairman,1397715000
+249,8200,Real Estate,Francis Choi,75,Hong Kong,Hong Kong,Real estate,M,,
+249,8200,Finance & Investments,George Roberts,79,United States,Atherton,Private equity,M,,328239523
+249,8200,Real Estate,Kushal Pal Singh,91,India,Delhi,Real estate,M,,1366417754
+256,8100,Gambling & Casinos,Karel Komarek,54,Switzerland,Verbier,"Oil and gas, IT, lotteries",M,,8574832
+256,8100,Diversified,Marie-Hélène Habert-Dassault,58,France,Paris,Diversified,F,,67059887
+256,8100,Food & Beverage,Tilman Fertitta,65,United States,Houston,"Houston Rockets, entertainment",M,Chairman and CEO,328239523
+256,8100,Diversified,Thierry Dassault,66,France,Paris,Diversified,M,,67059887
+256,8100,Diversified,Laurent Dassault,69,France,Paris,Diversified,M,,67059887
+261,8000,Technology,Nathan Blecharczyk,39,United States,San Francisco,Airbnb,M,,328239523
+261,8000,Metals & Mining,Pavel Tykac,58,Czech Republic,Prague,Coal mines,M,,10669709
+261,8000,Finance & Investments,Robert F. Smith,60,United States,Austin,Private equity,M,Investor,328239523
+261,8000,Energy,Leonid Fedun,66,Russia,Moscow,Oil,M,,144373535
+261,8000,Finance & Investments,Eric Wittouck,76,Monaco,,Investments,M,,38964
+261,8000,Finance & Investments,Patrick Ryan,85,United States,Winnetka,Insurance,M,Chairman and CEO,328239523
+261,8000,Fashion & Retail,Bernard Marcus,93,United States,Atlanta,Home Depot,M,"Co-founder, ex chairman of the board",328239523
+268,7900,Diversified,Georg Stumpf,50,Austria,Vienna,"Real estate, construction",M,,8877067
+268,7900,Finance & Investments,Orlando Bravo,52,United States,Miami Beach,Private equity,M,,328239523
+268,7900,Fashion & Retail,Ding Shizhong,52,China,Quanzhou,Sports apparel,M,,1397715000
+268,7900,Technology,Jay Y. Lee,54,South Korea,Seoul,Samsung,M,,51709098
+268,7900,Finance & Investments,Ramzi Musallam,54,United States,New York,Private equity,M,,328239523
+268,7900,Metals & Mining,Andrei Skoch & family,57,Russia,Moscow,Metals and mining,M,,144373535
+268,7900,Fashion & Retail,Nancy Walton Laurie,71,United States,Henderson,Walmart,F,,328239523
+268,7900,Finance & Investments,David Shaw,72,United States,New York,Hedge funds,M,Founder,328239523
+276,7800,Technology,Qi Shi & family,53,China,Shanghai,Financial information,M,,1397715000
+276,7800,Manufacturing,Yao Liangsong,58,China,Guangzhou,Furniture,M,,1397715000
+276,7800,Manufacturing,Li Shuirong & family,66,China,Hangzhou,Petrochemicals,M,,1397715000
+276,7800,Telecom,Rocco Commisso,73,United States,Saddle River,Telecom,M,,328239523
+276,7800,Fashion & Retail,Zhang Congyuan,75,Taiwan,Taoyuan,Shoes,M,,
+276,7800,Manufacturing,Lin Shu-hong,94,Taiwan,Taipei,Petrochemicals,M,,
+282,7700,Food & Beverage,Marie Besnier Beauvalot,42,France,Laval,Cheese,F,,67059887
+282,7700,Technology,Robin Li,54,China,Beijing,Internet search,M,Founder and CEO,1397715000
+282,7700,Food & Beverage,Jean-Michel Besnier,55,France,Laval,Cheese,M,,67059887
+282,7700,Real Estate,Ivar Tollefsen,61,Norway,Oslo,Real estate,M,,5347896
+282,7700,Technology,Henry Samueli,68,United States,Newport Beach,Semiconductors,M,"Cofounder, Chief Technology Officer and Chairman",328239523
+282,7700,Healthcare,Reinhold Schmieding,68,United States,Naples,Medical devices,M,,328239523
+282,7700,Service,Liu Yonghao & family,71,China,Chengdu,Agribusiness,M,,1397715000
+282,7700,Media & Entertainment,David Geffen,80,United States,Beverly Hills,"Movies, record labels",M,Cofounder,328239523
+290,7600,Technology,Joe Gebbia,41,United States,Austin,Airbnb,M,Cofounder & Chair of Airbnb.org,328239523
+290,7600,Energy,Cao Renxian,54,China,Hefei,Photovoltaic equipment,M,,1397715000
+290,7600,Technology,Joseph Tsai,59,Hong Kong,Hong Kong,E-commerce,M,,
+290,7600,Healthcare,Zhong Huijuan,62,China,Shanghai,Pharmaceuticals,F,,1397715000
+290,7600,Real Estate,Philip Ng,64,Singapore,Singapore,Real Estate,M,,5703569
+290,7600,Manufacturing,John Reece,66,United Kingdom,London,Chemicals,M,,66834405
+290,7600,Manufacturing,Andrew Currie,67,United Kingdom,London,Chemicals,M,,66834405
+290,7600,Real Estate,Leonard Stern,85,United States,New York,Real estate,M,Chairman and CEO,328239523
+290,7600,Healthcare,Hasmukh Chudgar & family,89,India,Ahmedabad,Pharmaceuticals,M,,1366417754
+299,7500,Food & Beverage,Zhang Yong,52,Singapore,Singapore,Restaurants,M,,5703569
+299,7500,Fashion & Retail,Ding Shijia,59,China,Quanzhou,Sports apparel,M,,1397715000
+299,7500,Finance & Investments,"Paul Tudor Jones, II.",68,United States,Palm Beach,Hedge funds,M,Founder,328239523
+299,7500,Finance & Investments,Henry Kravis,79,United States,New York,Private equity,M,Co-Chair and Co-CEO,328239523
+299,7500,Sports,Arthur Blank,80,United States,Atlanta,Home Depot,M,Chairman,328239523
+299,7500,Fashion & Retail,Charles Butt,85,United States,San Antonio,Supermarkets,M,,328239523
+305,7400,Fashion & Retail,Ma Jianrong,59,China,Ningbo,"Textiles, apparel",M,,1397715000
+305,7400,Construction & Engineering,Nassef Sawiris,62,Egypt,Cairo,"Construction, investments",M,,100388073
+305,7400,Manufacturing,Sri Prakash Lohia,70,United Kingdom,London,Petrochemicals,M,,66834405
+305,7400,Real Estate,Robert Ng,71,Singapore,Singapore,Real estate,M,,5703569
+305,7400,Manufacturing,Steven Rales,72,United States,Santa Barbara,"Manufacturing, investments",M,Investor,328239523
+305,7400,Technology,James Goodnight,80,United States,Cary,Software,M,CEO,328239523
+305,7400,Food & Beverage,Harry Stine,81,United States,Adel,Agriculture,M,,328239523
+312,7300,Fashion & Retail,Anders Holch Povlsen,50,Denmark,Aarhus,Fashion retail,M,,5818553
+312,7300,Technology,Wang Laichun,55,China,Shenzhen,Electronics components,F,,1397715000
+312,7300,Metals & Mining,Iskander Makhmudov,59,Russia,Moscow,"Mining, metals, machinery",M,,144373535
+312,7300,Logistics,Enrique Razon Jr.,63,Philippines,Manila,Ports,M,,108116615
+312,7300,Manufacturing,Benu Gopal Bangur,91,India,Kolkata,Cement,M,,1366417754
+317,7200,Finance & Investments,Guillaume Pousaz,41,United Arab Emirates,Dubai,Fintech,M,,9770529
+317,7200,Fashion & Retail,Takahisa Takahara,61,Japan,Tokyo,Personal care goods,M,,126226568
+317,7200,Finance & Investments,Arthur Dantchik,65,United States,Gladwyne,"Trading, investments",M,,328239523
+317,7200,Real Estate,Jeff Greene,68,United States,Palm Beach,"Real estate, investments",M,,328239523
+317,7200,Technology,Terry Gou,72,Taiwan,Taipei,Electronics,M,CEO,
+317,7200,Food & Beverage,Zong Qinghou,77,China,Hangzhou,Beverages,M,Chairman,1397715000
+317,7200,Energy,Richard Kinder,78,United States,Houston,Pipelines,M,Chairman and CEO,328239523
+317,7200,Finance & Investments,Don Hankey,79,United States,Malibu,Auto loans,M,Chairman,328239523
+325,7100,Service,Tamara Gustavson,61,United States,Lexington,Self storage,F,,328239523
+325,7100,Manufacturing,Liang Wengen,66,China,Changsha,Construction equipment,M,,1397715000
+325,7100,Manufacturing,Zhang Hejun,71,China,Ningbo,Electronics,M,,1397715000
+325,7100,Healthcare,Frederik Paulsen,72,Switzerland,Lausanne,Health care,M,,8574832
+325,7100,Gambling & Casinos,Johann Graf,76,Austria,Vienna,Gambling,M,,8877067
+325,7100,Technology,Judy Faulkner,79,United States,Madison,Healthcare software,F,Founder and CEO,328239523
+325,7100,Finance & Investments,Wee Cho Yaw,94,Singapore,Singapore,Banking,M,,5703569
+332,7000,Media & Entertainment,Dmitri Bukhman,37,United Kingdom,London,Online games,M,,66834405
+332,7000,Media & Entertainment,Igor Bukhman,41,United Kingdom,London,Online games,M,,66834405
+332,7000,Diversified,Rohiqa Cyrus Mistry,55,India,Mumbai,Diversified,F,,1366417754
+332,7000,Technology,Marc Benioff,58,United States,San Francisco,Business software,M,Chairman and CEO,328239523
+332,7000,Diversified,Shapoor Mistry,58,India,Mumbai,Diversified,M,,1366417754
+332,7000,Food & Beverage,Jude Reyes,67,United States,Palm Beach,Food distribution,M,Co-Chairman,328239523
+332,7000,Food & Beverage,J. Christopher Reyes,69,United States,Hobe Sound,Food distribution,M,Co-Chairman,328239523
+332,7000,Food & Beverage,Don Vultaggio & family,71,United States,Port Washington,Beverages,M,,328239523
+332,7000,Real Estate,Law Kar Po,74,Hong Kong,Hong Kong,Real estate,M,,
+332,7000,Technology,Jack Dangermond,77,United States,Redlands,Mapping software,M,,328239523
+332,7000,Manufacturing,Ashwin Dani & family,80,India,Mumbai,Paints,M,,1366417754
+332,7000,Fashion & Retail,Ralph Lauren,83,United States,New York,Apparel,M,Chairman ,328239523
+344,6900,Fashion & Retail,Sandra Ortega Mera,54,Spain,La Coruna,Zara,F,,47076781
+344,6900,Finance & Investments,Philippe Laffont,55,United States,New York,Hedge fund,M,Founder,328239523
+344,6900,Technology,Liu Jincheng & family,58,China,Huizhou,Lithium batteries,M,,1397715000
+344,6900,Diversified,Alejandro Bailleres Gual & family,62,Mexico,,Diversified,M,,126014024
+344,6900,Healthcare,Ronda Stryker,68,United States,Portage,Medical equipment,F,,328239523
+344,6900,Real Estate,Igor Olenicoff,80,United States,Lighthouse Point,Real estate,M,,328239523
+344,6900,Diversified,Edythe Broad & family,87,United States,Los Angeles,"Homebuilding, insurance",F,,328239523
+344,6900,Food & Beverage,Pauline MacMillan Keinath,89,United States,St. Louis,Cargill,F,,328239523
+352,6800,Energy,Scott Duncan,40,United States,Houston,Pipelines,M,,328239523
+352,6800,Energy,Milane Frantz,53,United States,Houston,Pipelines,F,,328239523
+352,6800,Finance & Investments,John Overdeck,53,United States,Millburn,Hedge funds,M,Investor,328239523
+352,6800,Gambling & Casinos,Denise Coates,55,United Kingdom,Stoke-on-Trent,Online gambling,F,,66834405
+352,6800,Finance & Investments,"Edward Johnson, IV.",58,United States,Boston,Fidelity,M,,328239523
+352,6800,Technology,Wang Laisheng,58,China,Shenzhen,Electronics components,M,,1397715000
+352,6800,Energy,Dannine Avara,59,United States,Houston,Pipelines,F,,328239523
+352,6800,Finance & Investments,Yuri Milner,61,United States,Los Altos,Tech investments,M,Investor,328239523
+352,6800,Finance & Investments,David Siegel,61,United States,Scarsdale,Hedge funds,M,Investor,328239523
+352,6800,Energy,Randa Duncan Williams,61,United States,Houston,Pipelines,F,Non-Executive Chairman of the Board,328239523
+352,6800,Diversified,Viktor Vekselberg,65,Russia,Moscow,"Metals, investments",M,,144373535
+352,6800,Diversified,Silvio Berlusconi & family,86,Italy,Milan,Media,M,,60297396
+352,6800,Technology,Gordon Moore,94,United States,Woodside,Intel,M,Cofounder and Chairman Emeritus,328239523
+365,6700,Manufacturing,Agnete Kirk Thinggaard,39,Denmark,Billund,Lego,F,,5818553
+365,6700,Manufacturing,Thomas Kirk Kristiansen,44,Denmark,Billund,Lego,M,,5818553
+365,6700,Manufacturing,Sofie Kirk Kristiansen,47,Denmark,Billund,Lego,F,,5818553
+365,6700,Manufacturing,Magdalena Martullo-Blocher,54,Switzerland,Feldmeilen,Chemicals,F,,8574832
+365,6700,Automotive,Li Ping,55,China,Ningde,Batteries,M,,1397715000
+365,6700,Telecom,Xavier Niel,55,France,Paris,"Internet, telecom",M,,67059887
+365,6700,Finance & Investments,Christopher Hohn,56,United Kingdom,London,Hedge funds,M,Investor,66834405
+365,6700,Manufacturing,Lin Jianhua,60,China,Hangzhou,Solar panel components,M,,1397715000
+365,6700,Food & Beverage,Xu Shihui,65,China,Quanzhou,"Snacks, beverages",M,,1397715000
+365,6700,Technology,David Sun,71,United States,Irvine,Computer hardware,M,COO,328239523
+365,6700,Finance & Investments,Ken Fisher,72,United States,Dallas,Money management,M,,328239523
+365,6700,Energy,Terrence Pegula,72,United States,Boca Raton,Natural gas,M,Owner,328239523
+365,6700,Manufacturing,Kjeld Kirk Kristiansen,75,Denmark,Billund,Lego,M,,5818553
+365,6700,Healthcare,Massimiliana Landini Aleotti & family,80,Italy,Fiesole,Pharmaceuticals,F,,60297396
+365,6700,Technology,John Tu,81,United States,Rolling Hills,Computer hardware,M,President,328239523
+365,6700,Real Estate,John A. Sobrato & family,83,United States,Atherton,Real estate,M,Founder and Chairman,328239523
+365,6700,Real Estate,"Edward Roski, Jr.",84,United States,Los Angeles,Real estate,M,President and Chairman,328239523
+365,6700,Finance & Investments,George Soros,92,United States,Katonah,Hedge funds,M,Founder,328239523
+383,6600,Manufacturing,Rahel Blocher,47,Switzerland,Wilen bei Wollerau,Chemicals,F,,8574832
+383,6600,Finance & Investments,Nadia Thiele,47,Germany,Munich,Investments,F,,83132799
+383,6600,Technology,"Henry Nicholas, III.",63,United States,Newport Coast,Semiconductors,M,Cofounder,328239523
+383,6600,Food & Beverage,Trudy Cathy White,67,United States,Hampton,Chick-fil-A,F,,328239523
+383,6600,Food & Beverage,Bubba Cathy,68,United States,Atlanta,Chick-fil-A,M,,328239523
+383,6600,Food & Beverage,Dan Cathy,70,United States,Atlanta,Chick-fil-A,M,,328239523
+383,6600,Finance & Investments,Bruce Kovner,78,United States,New York,Hedge funds,M,Founder,328239523
+390,6500,Real Estate,Radovan Vitek,51,Switzerland,Crans Montana,Real estate,M,,8574832
+390,6500,Technology,Melinda French Gates,58,United States,Medina,Microsoft,F,Cochair,328239523
+390,6500,Finance & Investments,David Bonderman,80,United States,Fort Worth,Private equity,M,,328239523
+390,6500,Diversified,Simon Reuben,81,Monaco,Monaco,"Real estate, investments",M,,38964
+390,6500,Real Estate,David Reuben,84,United Kingdom,London,"Investments, real estate",M,,66834405
+390,6500,Fashion & Retail,Nathan Kirsh,91,Eswatini (Swaziland),Ezulwini,"Retail, real estate",M,,
+390,6500,Real Estate,Annette Lerner & family,93,United States,Chevy Chase,Real estate,F,,328239523
+397,6400,Manufacturing,Dmitry Rybolovlev & family,56,Monaco,Monaco,Fertilizer,M,,38964
+397,6400,Healthcare,Jian Jun,59,China,Beijing,Biomedical products,F,,1397715000
+397,6400,Energy,Alexei Kuzmichev,60,France,Paris,"Oil, banking, telecom",M,,67059887
+397,6400,Sports,Stephen Bisciotti,62,United States,Hobe Sound,"Staffing, Baltimore Ravens",M,Owner,328239523
+397,6400,Finance & Investments,Stanley Druckenmiller,69,United States,New York,Hedge funds,M,Founder,328239523
+397,6400,Finance & Investments,Carl Bennet,71,Sweden,Gothenberg,Investments,M,,10285453
+397,6400,Logistics,Dennis Washington,88,United States,Missoula,"Construction, mining",M,,328239523
+397,6400,Finance & Investments,Luis Carlos Sarmiento,90,Colombia,Bogota,Banking,M,,50339443
+405,6300,Energy,Gao Jifan & family,58,China,Changzhou,Solar equipment,M,,1397715000
+405,6300,Energy,Wang Yusuo & family,59,China,Langfang,Natural gas distribution,M,,1397715000
+405,6300,Finance & Investments,John Grayken,66,United Kingdom,London,Private equity,M,Investor,66834405
+405,6300,Construction & Engineering,Anthony Bamford & family,77,United Kingdom,Gloucestershire,Construction equipment,M,,66834405
+405,6300,Healthcare,Alain Merieux & family,85,France,Lyon,Pharmaceuticals,M,,67059887
+405,6300,Manufacturing,Stef Wertheimer & family,96,Israel,Tel Aviv,Metalworking tools,M,,9053300
+411,6200,Manufacturing,Ruan Xueping,51,China,Ningbo,Power strip,M,,1397715000
+411,6200,Food & Beverage,Maria Asuncion Aramburuzabala & family,59,Mexico,Mexico City,"Beer, investments",F,,126014024
+411,6200,Food & Beverage,Lin Muqin & family,59,China,Shenzhen,Beverages,M,,1397715000
+411,6200,Manufacturing,Ruan Liping,59,China,Ningbo,Power strips,M,,1397715000
+411,6200,Finance & Investments,Michal Solowow,60,Poland,Kielce,Investments,M,,37970874
+411,6200,Diversified,Gustaf Douglas,85,Sweden,Stockholm,Investments,M,,10285453
+411,6200,Service,Frits Goldschmeding,89,Netherlands,Amsterdam,Temp agency,M,,17332850
+418,6100,Technology,Zhou Qunfei,53,Hong Kong,Hong Kong,Smartphone screens,F,Founder and CEO,
+418,6100,Finance & Investments,Tom Gores,58,United States,Beverly Hills,Private equity,M,,328239523
+418,6100,Telecom,Sunil Mittal,65,,,Telecom,M,,
+418,6100,Diversified,Mike Adenuga,69,Nigeria,Lagos,"Telecom, oil",M,,200963599
+418,6100,Fashion & Retail,Wolfgang Herz,72,Germany,Hamburg,Coffee,M,,83132799
+418,6100,Fashion & Retail,Michael Herz,79,Germany,Hamburg,Coffee,M,,83132799
+418,6100,Energy,Michael Kadoorie,81,Hong Kong,Hong Kong,"Hotels, energy",M,,
+425,6000,Real Estate,Rene Benko,46,Austria,,"Real estate, retail",M,,8877067
+425,6000,Technology,Jay Chaudhry,63,United States,Reno,Security software,M,,328239523
+425,6000,Metals & Mining,Alexander Abramov,64,Russia,Moscow,"Steel, mining",M,,144373535
+425,6000,Fashion & Retail,Gopikishan Damani,65,India,Mumbai,"Retail, investments",M,,1366417754
+425,6000,Technology,David Steward,71,United States,St. Louis,IT provider,M,,328239523
+425,6000,Fashion & Retail,Alain Bouchard,74,Canada,Montreal,Convinience stores,M,Chairman and CEO,36991981
+425,6000,Finance & Investments,Michael Milken,76,United States,Los Angeles,Investments,M,,328239523
+425,6000,Real Estate,Neil Bluhm,85,United States,Chicago,Real estate,M,,328239523
+425,6000,Fashion & Retail,Les Wexner & family,85,United States,New Albany,Retail,M,,328239523
+425,6000,Finance & Investments,Joe Lewis,86,Bahamas,Albany,Investments,M,,
+425,6000,Diversified,Sumet Jiaravanon,88,Thailand,Bangkok,Diversified,M,,69625582
+425,6000,Finance & Investments,Frank Lowy,92,Israel,Tel Aviv,Investments,M,,9053300
+437,5900,Real Estate,Cai Kui,60,China,Chengdu,Real estate,M,,1397715000
+437,5900,Finance & Investments,Andreas Halvorsen,61,United States,Darien,Hedge funds,M,Investor,328239523
+437,5900,Finance & Investments,Antony Ressler,62,United States,Los Angeles,Finance,M,,328239523
+437,5900,Food & Beverage,Tsai Eng-meng,66,China,Shanghai,"Food, beverages",M,,1397715000
+437,5900,Diversified,Jaran Chiaravanont,93,Thailand,Bangkok,Diversified,M,,69625582
+442,5800,Finance & Investments,Josh Harris,58,United States,Miami,Private equity,M,,328239523
+442,5800,Healthcare,Patrick Soon-Shiong,70,United States,Los Angeles,Pharmaceuticals,M,,328239523
+442,5800,Healthcare,Niels Peter Louis-Hansen,75,Denmark,Humlebaek,Medical devices,M,,5818553
+445,5700,Finance & Investments,Daniel Ziff,51,United States,New York,Investments,M,,328239523
+445,5700,Metals & Mining,Rinat Akhmetov,56,Ukraine,Donetsk,"Steel, coal",M,,44385155
+445,5700,Finance & Investments,Robert Ziff,56,United States,New York,Investments,M,,328239523
+445,5700,Finance & Investments,Dirk Ziff,59,United States,North Palm Beach,Investments,M,,328239523
+445,5700,Real Estate,Fredrik Lundberg,71,Sweden,Stockholm,"Real estate, investments",M,,10285453
+445,5700,Media & Entertainment,Clive Calder,76,Cayman Islands,Grand Cayman,Record label,M,,
+445,5700,Construction & Engineering,Thomas Schmidheiny,77,Switzerland,Jona,Cement,M,,8574832
+445,5700,Logistics,Helmut Sohmen,83,Hong Kong,Hong Kong,Shipping,M,,
+445,5700,Healthcare,John Brown,88,United States,Atlanta,Medical equipment,M,,328239523
+445,5700,Energy,Arthur Irving,93,Canada,Saint John,Oil,M,,36991981
+455,5600,Logistics,Maria Angelicoussis,41,Greece,,Shipping,F,,10716322
+455,5600,Gambling & Casinos,Teddy Sagi,51,Israel,Tel Aviv,Gambling software,M,,9053300
+455,5600,Logistics,Lai Meisong,52,China,Shanghai,Package delivery,M,,1397715000
+455,5600,Healthcare,Li Ge,56,China,Shanghai,Pharmaceutical ingredients,M,,1397715000
+455,5600,Automotive,Wu Jianshu,59,China,Ningbo,Auto parts,M,,1397715000
+455,5600,Finance & Investments,Karen Pritzker,65,United States,Branford,"Hotels, investments",F,,328239523
+455,5600,Healthcare,Seo Jung-jin,65,South Korea,Seoul,Biotech,M,,51709098
+455,5600,Service,Robert Rowling,69,United States,Dallas,"Hotels, investments",M,,328239523
+455,5600,Energy,Ray Lee Hunt,79,United States,Dallas,"Oil, real estate",M,,328239523
+455,5600,Automotive,Vikram Lal & family,81,India,Delhi,Motorcycles,M,,1366417754
+455,5600,Finance & Investments,Ken Langone,87,United States,Sands Point,Investments,M,,328239523
+466,5500,Technology,John Collison,32,United States,San Francisco,Payments software,M,Cofounder,328239523
+466,5500,Technology,Patrick Collison,34,United States,San Francisco,Payment software,M,Cofounder,328239523
+466,5500,Diversified,Zhao Yan,56,China,Beijing,Biotech,F,,1397715000
+466,5500,Finance & Investments,Jean Salata,57,Hong Kong,Hong Kong,Finance,M,,
+466,5500,Automotive,Dan Friedkin,58,United States,Houston,Toyota dealerships,M,owner and ceo,328239523
+466,5500,Finance & Investments,Ludwig Merckle,58,Germany,Ulm,Pharmaceuticals,M,,83132799
+466,5500,Media & Entertainment,James Chambers,65,United States,Palisades,"Media, automotive",M,,328239523
+466,5500,Technology,Pierre Chen,66,Taiwan,Taipei,Electronics,M,,
+466,5500,Manufacturing,Mitchell Rales,66,United States,Potomac,"Manufacturing, investments",M,,328239523
+466,5500,Manufacturing,Jiang Weiping & family,68,China,Chengdu,Chemicals,M,,1397715000
+466,5500,Technology,Richard White,68,Australia,Sydney,Software,M,,25766605
+466,5500,Service,Micky Arison,73,United States,Bal Harbour,Carnival Cruises,M,Chairman and CEO,328239523
+466,5500,Automotive,Piero Ferrari,77,Italy,Modena,Automobiles,M,,60297396
+466,5500,Media & Entertainment,Katharine Rayner,78,United States,East Hampton,"Media, automotive",F,,328239523
+466,5500,Finance & Investments,Paul Singer,78,United States,New York,Hedge funds,M,Investor,328239523
+466,5500,Healthcare,Sergio Stevanato & family,80,Italy,Venice,Medical packaging,M,,60297396
+466,5500,Media & Entertainment,Margaretta Taylor,80,United States,Southampton,"Media, automotive",F,,328239523
+466,5500,Healthcare,Wolfgang Marguerre & family,81,Germany,Heidelberg,Pharmaceuticals,M,,83132799
+466,5500,Manufacturing,Archie Aldis Emmerson & family,93,United States,Redding,"Timberland, lumber mills",M,,328239523
+466,5500,Diversified,James Irving,95,Canada,Saint John,Diversified,M,,36991981
+486,5400,Finance & Investments,Mat Ishbia,43,United States,Bloomfield Hills,Mortgage lender,M,,328239523
+486,5400,Diversified,Miao Hangen,58,China,Suzhou,"Textiles, petrochemicals",M,,1397715000
+486,5400,Fashion & Retail,Matthias Reimann-Andersen,58,Germany,Munich,Consumer goods,M,,83132799
+486,5400,Fashion & Retail,Stefan Reimann-Andersen,59,Austria,Vienna,Consumer goods,M,,8877067
+486,5400,Technology,Leo Koguan,68,Singapore,Singapore,IT provider,M,,5703569
+486,5400,Fashion & Retail,Wolfgang Reimann,70,Germany,Passau,Consumer goods,M,,83132799
+486,5400,Fashion & Retail,Renate Reimann-Haas,71,Austria,Vienna,Consumer goods,F,,8877067
+486,5400,Fashion & Retail,Miuccia Prada,73,Italy,Milan,Luxury goods,F,"CEO, Fashion Designer",60297396
+486,5400,Fashion & Retail,Patrizio Bertelli,77,Italy,Milan,Luxury goods,M,,60297396
+486,5400,Manufacturing,Michael Pieper,77,Switzerland,Lucerne,Kitchen appliances,M,CEO of Artemis Group,8574832
+486,5400,Manufacturing,Mahendra Choksi & family,81,India,Mumbai,Paints,M,,1366417754
+497,5300,Finance & Investments,Todd Boehly,49,United States,Darien,Finance,M,,328239523
+497,5300,Finance & Investments,Elizabeth Johnson,59,United States,Boston,Fidelity,F,,328239523
+497,5300,Manufacturing,Ibrahim Erdemoglu,60,Turkey,Istanbul,Carpet,M,,83429615
+497,5300,Finance & Investments,Mark Walter,62,United States,Chicago,"Finance, asset management",M,CEO,328239523
+497,5300,Real Estate,Rick Caruso,64,United States,Los Angeles,Real estate,M,,328239523
+497,5300,Finance & Investments,Douglas Leone,65,United States,Atherton,Venture capital,M,Global Managing Partner,328239523
+497,5300,Fashion & Retail,M.A. Yusuff Ali,67,United Arab Emirates,Abu Dhabi,Retail,M,,9770529
+497,5300,Finance & Investments,Thomas Pritzker,72,United States,Chicago,"Hotels, investments",M,Executive Chairman,328239523
+497,5300,Food & Beverage,Erich Wesjohann & family,77,Germany,Visbek,Poultry genetics,M,,83132799
+497,5300,Diversified,Prajogo Pangestu,78,Indonesia,Jakarta,Petrochemicals,M,,270203917
+497,5300,Service,Gary Rollins,78,United States,Atlanta,Pest control,M,,328239523
+497,5300,Food & Beverage,Lynda Resnick,80,United States,Beverly Hills,Agriculture,F,,328239523
+497,5300,Manufacturing,Ronald Wanek,81,United States,Saint Petersburg,Furniture,M,,328239523
+497,5300,Food & Beverage,Stewart Resnick,86,United States,Beverly Hills,Agriculture,M,,328239523
+511,5200,Gambling & Casinos,Mark Scheinberg,49,United Kingdom,Isle of Man,Online gambling,M,,66834405
+511,5200,Food & Beverage,Cheng Xue,53,China,Foshan,Soy sauce,F,,1397715000
+511,5200,Finance & Investments,Alexandre Behring,56,United States,Greenwich,Investments,M,,328239523
+511,5200,Real Estate,Robert Faith,59,United States,Charleston,Real estate management,M,,328239523
+511,5200,Fashion & Retail,Gao Dekang & family,71,China,Changshu,Apparel,M,,1397715000
+511,5200,Fashion & Retail,Micky Jagtiani,71,United Arab Emirates,Dubai,Retail,M,,9770529
+511,5200,Technology,Barry Lam,73,Taiwan,Taipei,Electronics,M,,
+511,5200,Technology,Charles Simonyi,74,United States,Medina,Microsoft,M,,328239523
+511,5200,Real Estate,Ty Warner,78,United States,Oak Brook,"Plush toys, real estate",M,,328239523
+511,5200,Real Estate,Sam Zell,81,United States,Chicago,"Real estate, private equity",M,,328239523
+511,5200,Food & Beverage,"Robert Rich, Jr.",82,United States,Islamorada,Frozen foods,M,,328239523
+511,5200,Telecom,Ananda Krishnan,85,Malaysia,Kuala Lumpur,"Telecoms, media, oil-services",M,,32447385
+523,5100,Manufacturing,Fang Wei,49,China,Beijing,Steel,M,,1397715000
+523,5100,Media & Entertainment,Kwon Hyuk-bin,49,South Korea,Seoul,Online games,M,,51709098
+523,5100,Finance & Investments,Rekha Jhunjhunwala,59,India,Mumbai,Investments,F,,1366417754
+523,5100,Finance & Investments,Sami Mnaymneh,61,United States,Miami Beach,Private equity,M,,328239523
+523,5100,Logistics,Kjell Inge Rokke,64,Norway,Vettre,"Shipping, seafood",M,,5347896
+523,5100,Finance & Investments,Tony Tamer,65,United States,New York,Private equity,M,,328239523
+523,5100,Healthcare,Tse Ping & family,71,Hong Kong,Hong Kong,Pharmaceuticals,M,,
+523,5100,Sports,Denise York & family,72,United States,Youngstown,San Francisco 49ers,F,Co-Chairman,328239523
+523,5100,Technology,Romesh T. Wadhwani,75,United States,Palo Alto,Software,M,Founder and Chairman,328239523
+523,5100,Healthcare,Hansjoerg Wyss,88,United States,Wilson,Medical devices,M,,328239523
+523,5100,Finance & Investments,Charles B. Johnson,90,United States,Palm Beach,Franklin Templeton,M,Former Chairman and CEO,328239523
+534,5000,Finance & Investments,Alexander Gerko,43,United Kingdom,London,Trading,M,,66834405
+534,5000,Healthcare,Viktor Kharitonin,50,Russia,Moscow,Pharmaceuticals,M,,144373535
+534,5000,Fashion & Retail,Jane Lauder,50,United States,New York,Estée Lauder,F,,328239523
+534,5000,Healthcare,Dona Bertarelli,55,Switzerland,Gstaad,Biotech and investments,F,,8574832
+534,5000,Telecom,"Robert Hale, Jr.",56,United States,Boston,Telecom,M,,328239523
+534,5000,Technology,Kim Beom-su,57,South Korea,Seoul,Online services,M,,51709098
+534,5000,Healthcare,Ugur Sahin,57,Germany,Mainz,Biotechnology,M,,83132799
+534,5000,Healthcare,Thomas Straumann,59,Switzerland,Basel,Dental implants,M,,8574832
+534,5000,Real Estate,Alexandra Schoerghuber & family,64,Germany,Munich,Real estate,F,,83132799
+534,5000,Food & Beverage,Murat Ulker,64,Turkey,Istanbul,Food,M,,83429615
+534,5000,Fashion & Retail,Chip Wilson,66,Canada,Vancouver,Lululemon,M,Chairman,36991981
+534,5000,Technology,Martin Haefner,69,Switzerland,Zurich,"Software, investments",M,,8574832
+534,5000,Energy,Robert Bass,75,United States,Fort Worth,"Oil, investments",M,,328239523
+534,5000,Media & Entertainment,George Lucas,78,United States,San Anselmo,Star Wars,M,,328239523
+534,5000,Finance & Investments,Ron Baron,79,United States,New York,Money management,M,,328239523
+534,5000,Fashion & Retail,Michel Leclercq & family,83,France,Lille,Sporting goods,M,,67059887
+534,5000,Sports,Janice McNair,86,United States,Houston,"Energy, sports",F,,328239523
+534,5000,Real Estate,Zhu Yan & family,,China,Beijing,Real estate,F,,1397715000
+552,4900,Fashion & Retail,Zhang Tao,50,China,Beijing,E-commerce,M,,1397715000
+552,4900,Finance & Investments,Jonathan Gray,53,United States,New York,Investments,M,,328239523
+552,4900,Sports,Dan Snyder,58,United States,Potomac,Washington Commanders,M,,328239523
+552,4900,Diversified,Chairul Tanjung,60,Indonesia,Jakarta,Diversified,M,,270203917
+552,4900,Finance & Investments,Bidzina Ivanishvili,67,Georgia,Tbilisi,Investments,M,,3720382
+552,4900,Energy,Kelcy Warren,67,United States,Dallas,Pipelines,M,,328239523
+552,4900,Healthcare,Murali Divi & family,72,India,Hyderabad,Pharmaceuticals,M,,1366417754
+552,4900,Automotive,Mark Shoen,72,United States,Phoenix,U-Haul,M,,328239523
+552,4900,Healthcare,Rudolf Maag,77,Switzerland,Binningen,Medical devices,M,,8574832
+552,4900,Manufacturing,Jim Davis & family,79,United States,Newton,New Balance,M,Chairman,328239523
+552,4900,Technology,Dagmar Dolby & family,81,United States,San Francisco,Dolby Laboratories,F,,328239523
+552,4900,Service,Tom Golisano,81,United States,Naples,Payroll services,M,,328239523
+552,4900,Food & Beverage,Emanuele (Lino) Saputo & family,86,Canada,Montreal,Cheese,M,Chairman,36991981
+552,4900,Metals & Mining,Lim Hariyanto Wijaya Sarwono,94,Indonesia,Jakarta,"Palm oil, nickel mining",M,,270203917
+552,4900,Technology,Marcos Galperin,,Argentina,Buenos Aires,E-commerce,M,,44938712
+567,4800,Fashion & Retail,Tomasz Biernacki,50,Poland,"Krotoszyn,",Supermarkets,M,,37970874
+567,4800,Fashion & Retail,Michael Ashley,58,United Kingdom,Hertfordshire,Sports retailing,M,,66834405
+567,4800,Finance & Investments,Yu Yong,62,China,Shanghai,Mining,M,,1397715000
+567,4800,Manufacturing,Winifred J. Marquart,63,United States,Virginia Beach,Cleaning products,F,,328239523
+567,4800,Manufacturing,H. Fisk Johnson,64,United States,Racine,Cleaning products,M,,328239523
+567,4800,Technology,Thai Lee,64,United States,Austin,IT provider,F,,328239523
+567,4800,Manufacturing,Helen Johnson-Leipold,66,United States,Racine,Cleaning products,F,,328239523
+567,4800,Manufacturing,S. Curtis Johnson,67,United States,Racine,Cleaning products,M,,328239523
+567,4800,Technology,Vinod Khosla,68,United States,Portola Valley,Venture capital,M,Investor,328239523
+567,4800,Fashion & Retail,Jimmy Haslam,69,United States,Knoxville,"Gas stations, retail",M,CEO,328239523
+567,4800,Healthcare,Pankaj Patel,70,India,Ahmedabad,Pharmaceuticals,M,,1366417754
+567,4800,Manufacturing,Horst Julius Pudwill,78,Hong Kong,Hong Kong,Manufacturing,M,,
+567,4800,Healthcare,Bernard Broermann,79,Germany,Koenigstein,Hospitals,M,,83132799
+580,4700,Manufacturing,Li Gaiteng,50,China,Shanghai,Hair dryers,M,,1397715000
+580,4700,Media & Entertainment,Tim Sweeney,52,United States,Cary,Video games,M,,328239523
+580,4700,Finance & Investments,Andre Esteves,54,Brazil,Sao paulo,Banking,M,,212559417
+580,4700,Manufacturing,Ali Erdemoglu,63,Turkey,Istanbul,Carpet,M,,83429615
+580,4700,Real Estate,Carlo Fidani,68,Canada,Toronto,Real estate,M,Chairman,36991981
+580,4700,Media & Entertainment,Thomas Secunda,68,United States,Croton-on-Hudson,Bloomberg LP,M,,328239523
+580,4700,Sports,Gayle Benson,76,United States,New Orleans,New Orleans Saints,F,,328239523
+580,4700,Diversified,Zuowen Song,76,China,Longkou,"Aluminum, diversified",M,,1397715000
+580,4700,Technology,Hong Ra-hee,77,South Korea,Seoul,Samsung,F,,51709098
+580,4700,Technology,Jason Chang,78,Taiwan,Taipei,Electronics,M,,
+580,4700,Diversified,Maria Fernanda Amorim & family,88,Portugal,Grijo,"Energy, investments",F,,10269417
+591,4600,Manufacturing,Maximilian Viessmann,34,Germany,Battenberg,"Heating, cooling equipment",M,,83132799
+591,4600,Media & Entertainment,Forrest Li,45,Singapore,Singapore,Gaming,M,,5703569
+591,4600,Technology,Jack Dorsey,46,United States,San Francisco,"Twitter, Square",M,Cofounder,328239523
+591,4600,Food & Beverage,Russ Weiner,52,United States,Delray Beach,Energy drinks,M,,328239523
+591,4600,Manufacturing,Li Chunan,54,China,Fushun,Renewable energy,M,,1397715000
+591,4600,Finance & Investments,"Andre Koo, Sr.",55,Taiwan,Taipei,Financial services,M,,
+591,4600,Energy,Fan Hongwei,56,China,Wujiang,Petrochemicals,F,,1397715000
+591,4600,Telecom,Richard Li,56,Hong Kong,Hong Kong,Telecom,M,,
+591,4600,Food & Beverage,Bert Beveridge,61,United States,Austin,Vodka,M,,328239523
+591,4600,Metals & Mining,Vladimir Kim,62,Kazakhstan,Almaty,Mining,M,,18513930
+591,4600,Finance & Investments,Barry Sternlicht,62,United States,Miami,Private equity,M,,328239523
+591,4600,Media & Entertainment,Mark Cuban,64,United States,Dallas,"Online media, Dallas Mavericks",M,Owner,328239523
+591,4600,Fashion & Retail,Mark Meijer & family,65,United States,Grand Rapids,Supermarkets,M,,328239523
+591,4600,Healthcare,Xue Min,66,China,Wuhan,Healthcare,M,,1397715000
+591,4600,Fashion & Retail,Doug Meijer & family,69,United States,Grand Rapids,Supermarkets,M,,328239523
+591,4600,Fashion & Retail,Hank Meijer & family,71,United States,Grand Rapids,Supermarkets,M,,328239523
+591,4600,Logistics,Fred Smith,78,United States,Memphis,FedEx,M,Chairman and CEO,328239523
+591,4600,Fashion & Retail,Ronald Lauder,79,United States,New York,Estee Lauder,M,,328239523
+591,4600,Food & Beverage,Issad Rebrab & family,79,Algeria,Algiers,Food,M,,43053054
+591,4600,Media & Entertainment,Charles Dolan & family,96,United States,Oyster Bay,Cable television,M,Chairman and Founder,328239523
